@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Bienvenido
 
-You can use the [editor on GitHub](https://github.com/yachaybit/yachaybit.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+YachayBIT, es un proyecto cuya finalidad es desarrollar las habilidades de: ABSTRACCIÓN, DESCOMPOSICIÓN, ALGORÍTMOS y PATRONES, estás habilidades son consideradas competencias del siglo XXI. Para cumplir este objetivo se usaré el Pensamiento Computacional (Computational Thinking).
 
 ### Markdown
 
